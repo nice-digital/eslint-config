@@ -1,6 +1,7 @@
 module.exports = {
   "env": {
     "browser": true,
+    "node": true,
     "es6": true,
     "commonjs": true
   },
@@ -10,7 +11,6 @@ module.exports = {
   	"PRODUCTION": false
   },
   "extends": "eslint:recommended",
-  "parser": "babel-eslint",
   "parserOptions": {
     "sourceType": "module"
   },
