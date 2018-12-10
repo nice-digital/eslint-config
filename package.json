@@ -1,6 +1,6 @@
 {
   "name": "@nice-digital/eslint-config",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Shared ESLint config for use in NICE Digital Services",
   "main": "index.js",
   "scripts": {
